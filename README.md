@@ -2,11 +2,9 @@
 
 ### Hi there 👋
 <p>
-  <em>
     저는 <b>자바 백엔드</b> 개발자를 꿈꾸는 SSAFY생입니다. 👨‍💻 <br>
     다양한 재미있는 것들을 <b>개발</b>하는 걸 좋아합니다. 🎁 <br>
     재미있고 <b>유용하고</b>✨ <b>편리한</b>🎉 소프트웨어를 만들고 싶습니다. 
-  </em>  
 </p>
 
 ![taxol1203's github stats](https://github-readme-stats.vercel.app/api?username=taxol1203&show_icons=true)
