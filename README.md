@@ -20,12 +20,12 @@
 <div align=center>
   [![My Tech Blog Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=https://taxol1203.github.io/)](https://taxol1203.github.io/) 
 </div>
-<!--
+
 <div align=center>
 [![My Tech Blog Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=https://kinetic27.github.io/)](https://kinetic27.github.io/) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/dev_kinetic?label=Follow%20me&style=social)](https://twitter.com/dev_kinetic)
 </div>
--->
+
 
 
 
