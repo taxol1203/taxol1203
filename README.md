@@ -16,7 +16,9 @@
   
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=taxol1203)](https://solved.ac/taxol1203)
 
-
+<div align=center>
+  [![My Tech Blog Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=https://taxol1203.github.io/)](https://taxol1203.github.io/) 
+</div>
 <!--
 **taxol1203/taxol1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
