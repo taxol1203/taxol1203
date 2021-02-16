@@ -17,16 +17,24 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=taxol1203)](https://solved.ac/taxol1203)
 
 <!--
-<div align=center>
+### Project ⚡
+
+* Development Diary Blog([blog](https://kinetic27.github.io))
+* [Unknown to Wellknown](https://github.com/justiceHui/Unknown-To-Wellknown): Advanced Algorithm Introduction
+* [814Solver](https://github.com/kimjg1119/814Solver): [BOJ 18789 814-2](https://www.acmicpc.net/problem/18789) solver using Genetic Algorithm
 -->
-  [![My Tech Blog Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=https://taxol1203.github.io/)](https://taxol1203.github.io/) 
-<!--  
-</div>
+
+<!--
+### Contacts 📫
+
+* Github Repo Issue
+* Twitter DM: @dev_kinetic
+* Email: aheui@kakao.com
 -->
-<div align=center>
-[![My Tech Blog Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=https://kinetic27.github.io/)](https://kinetic27.github.io/) 
-[![Twitter Follow](https://img.shields.io/twitter/follow/dev_kinetic?label=Follow%20me&style=social)](https://twitter.com/dev_kinetic)
-</div>
+
+[![My Tech Blog Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=https://taxol1203.github.io/)](https://taxol1203.github.io/) 
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
 
 
 
