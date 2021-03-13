@@ -8,7 +8,9 @@
 </p>
 
 ![taxol1203's github stats](https://github-readme-stats.vercel.app/api?username=taxol1203&show_icons=true)
+<!--
 [![taxol1203's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=taxol1203&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/taxol1203)
+-->
 ### Online Judge 💻
 
 * BOJ: [taxol1203](http://icpc.me/taxol1203)
@@ -33,9 +35,9 @@
 -->
 
 [![My Tech Blog Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=https://taxol1203.github.io/)](https://taxol1203.github.io/) 
-
+<!--
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
-
+-->
 
 
 
